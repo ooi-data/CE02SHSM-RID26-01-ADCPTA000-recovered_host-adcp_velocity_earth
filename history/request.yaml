@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE02SHSM-RID26-01-ADCPTA000-recovered_host-adcp_velocity_earth
-last_request: '2022-01-21T02:39:27.213312Z'
+last_request: '2022-01-21T18:12:40.681811Z'
 response: https://raw.githubusercontent.com/ooi-data/CE02SHSM-RID26-01-ADCPTA000-recovered_host-adcp_velocity_earth/main/history/response.json
-status: failed
+status: pending
